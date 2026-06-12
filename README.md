@@ -1,4 +1,3 @@
-# tbox.github.io
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/16/1629103584480_890.png" group-title="央视频道",CCTV-1 综合
 http://222.210.87.151:888/udp/239.94.0.1:5140
